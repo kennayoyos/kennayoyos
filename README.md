@@ -1,29 +1,34 @@
-# Hello there!👋
+# Hi 👋
 
-I'm an aspiring **Software Engineer** currently focused on strengthening my technical skills by building practical applications that I can use in my daily life.
-
-Rather than only studying theory, I'm learning by **designing and shipping real projects** while developing the core skills expected of software engineers.
+I'm an aspiring **Software Engineer** currently focused on refreshing and strengthening my technical skills. My goal is to build a strong full-stack foundation and develop practical experience so I can become a competitive candidate in the software engineering job market.
 
 ---
 
-## 🚀 Current Projects
+## 📚 Current Focus
 
-Interview Prep Web App — Web application designed to help developers practice and organize technical interview questions.
-
-Habit Tracker App — Mobile-first application for tracking habits and building consistency.
+I am currently participating in the **Full Stack Open** course by the University of Helsinki. The course focuses on modern JavaScript-based full-stack development, covering topics such as React applications, Node.js APIs, and database-backed web applications.
 
 ---
 
-## 🧰 Tech Stack (Current Focus)
+## 🧰 Tech Stack (Learning)
 
-ReactJS, TypeScript, TailwindCSS, shadcn/ui, Node.js, Express.js, JWT Authentication, REST APIs, PostgreSQL
+JavaScript, React, Redux, Node.js, Express.js, REST APIs, MongoDB, GraphQL, TypeScript
 
 ---
 
 ## 💻 Languages I've Used
 
-JavaScript, Python, Java, C#, C, C++
+JavaScript, Java, Python, C#, C, C++
 
 ---
 
-⭐ Thanks for stopping by!
+## 🎯 Goal
+
+After completing the course, I plan to build two portfolio projects that I aim to use in my daily life:
+
+Habit Tracker App
+Interview Prep Web App
+
+---
+
+🌟 Thanks for stopping by!
