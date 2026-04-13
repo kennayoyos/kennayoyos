@@ -15,14 +15,22 @@ As I am progressing through this gigantic course, I will note down all the key s
 - Testing w/ Vitest
 - URL routing w/ React Router
 
-### 🛢️ Backend
+### 📃 State Management
+- Zustand
+- React's Context API
+- Creating Custom Hooks in React
+- Tanstack Query (React)
+
+### 🛢️ Backend / Database
 - NodeJS
 - ExpressJS
-- Testing w/ node:test 
+- Testing w/ node:test
+- MongoDB & Mongoose
 
 ### 🔎 Others
 - Authentication w/ JSON Web Token (JWT) and bcrypt
 - End to end testing w/ Playwright
+- Basics of using GraphQL instead of REST API
 
 ## 💻 Languages I've Used
 
@@ -30,6 +38,6 @@ JavaScript, Java, Python, C#, C, C++
 
 ## 📚 Frameworks/Libraries I've Used
 
-ReactJS, FastAPI, AntDesign
+ReactJS, FastAPI, AntDesign, Mongoose, Playwright, GraphQL
 
 ### ⭐ Thanks for stopping by!
